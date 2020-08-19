@@ -1,0 +1,82 @@
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Form1.resources
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Form1.resources
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-7-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Form1.resources
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-7-21智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Form1.resources
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-8-2智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Login.resources
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.MainForm.resources
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.MainForm.resources
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Login.resources
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\测试2016-9-12智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe.config
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.MainForm.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Login.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe.config
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.MainForm.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Login.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe.config
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.pdb
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.MainForm.resources
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Login.resources
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1._0.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\PreviewDemo.PTZControl.resources
+E:\龚文多DDV\历史资料\20161101-20170706\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\bin\智能网络机器人控制系统1.0.exe.config
+E:\龚文多DDV\历史资料\20161101-20170706\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.exe
+E:\龚文多DDV\历史资料\20161101-20170706\2016-9-19智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\obj\x86\Debug\智能网络机器人控制系统1.0.pdb

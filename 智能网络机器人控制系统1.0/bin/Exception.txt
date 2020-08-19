@@ -1,0 +1,60 @@
+20160918 04:26:47 709  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 04:26:50 816  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:51 261  Exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 智能网络机器人控制系统1._0.MainForm.JoystickWork() 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 316
+20160918 04:26:55 563  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:56 663  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:57 147  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:57 454  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:57 502  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:57 840  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:26:59 313  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:27:18 369  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 04:27:25 055  Exception: System.Exception: 无法连接机器人对端口“COM4”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0 - 副本\智能网络机器人控制系统1.0\MainForm.cs:行号 172
+20160918 04:27:40 648  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 05:01:48 567  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 05:02:29 383  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 05:03:49 885  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 05:05:44 532  Exception: 串口 接收 信息失败,收到的字节数：0
+20160918 05:05:46 101  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 178
+20160919 11:27:43 910  Exception: 串口 接收 信息失败,收到的字节数：0
+20160919 11:27:53 890  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 203
+20160919 11:27:54 875  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 203
+20160919 11:28:20 844  Exception: 串口 接收 信息失败,收到的字节数：0
+20160919 11:28:23 918  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 203
+20160919 11:28:24 916  Exception: System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 智能网络机器人控制系统1._0.MainForm.JoystickWork() 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 347
+20160919 11:28:27 722  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 203
+20160919 11:28:28 683  Exception: System.Exception: 无法连接机器人对端口“COM1”的访问被拒绝。
+   在 智能网络机器人控制系统1._0.SerialPortUtil.open(SerialPort moveSerialPort, String portName, Int32 baudRate) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\SerialPortUtil.cs:行号 30
+   在 智能网络机器人控制系统1._0.MainForm.btPort_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\2016-9-18智能网络机器人控制系统1.0\智能网络机器人控制系统1.0\MainForm.cs:行号 203
+20160919 11:28:40 667  Exception: 串口 接收 信息失败,收到的字节数：0
+20160919 11:29:06 294  Exception: 串口 接收 信息失败,收到的字节数：0
